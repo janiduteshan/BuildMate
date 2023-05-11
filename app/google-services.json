@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29751003092",
+    "project_id": "buildmate-f5406",
+    "storage_bucket": "buildmate-f5406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29751003092:android:f6a7ad23acc8ec0eba3841",
+        "android_client_info": {
+          "package_name": "com.mad.buildmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29751003092-iip3t1mppfmg6tn3f1iov5er6b3n62lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTWpWNjIjCOXVq3-NAneP0RgvRarsddM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29751003092-iip3t1mppfmg6tn3f1iov5er6b3n62lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
